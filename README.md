@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Neeraj Sharma 👋
 
-<!--
-**neerajsharma0/neerajsharma0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project Manager | Software Test Engineer
 
-Here are some ideas to get you started:
+Quality Assurance professional with **5.4 years of experience** in manual & automation testing, API validation, and project management across web and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+**Testing & Automation**  
+Postman • JMeter • Cypress • LambdaTest
+
+**Languages & Databases**  
+C • C++ • SQL • JavaScript  
+MySQL • MongoDB • Elasticsearch
+
+**Tools & Methodologies**  
+JIRA • Trello • Git • Agile
+
+### 💼 Experience
+
+**DJT Corporation** *(Oct 2023 - Present)*  
+Leading QA and project coordination for e-commerce platforms, microfinance systems, and mobile apps
+
+**Passeridae Technology** *(March 2020 - Oct 2023)*  
+Delivered comprehensive testing for job platforms, fitness apps, and booking systems
+
+### 🎓 Education
+
+**MBA in Marketing** - IGNOU  
+**B.Tech in Computer Science** - MAIT, Delhi
+
+### 📫 Contact
+
+📧 neeraj.sharma1093@gmail.com
+
+---
+
+*Building quality software, one test at a time.*
